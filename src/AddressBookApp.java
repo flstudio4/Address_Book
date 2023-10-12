@@ -22,7 +22,7 @@ public final class AddressBookApp {
     private static Statement st;
 
     private AddressBookApp() {
-        // Don't let anyone instantiate the class
+        // Don't let anyone instantiate this class
     }
 
     public static void main(String[] args) throws SQLException {
